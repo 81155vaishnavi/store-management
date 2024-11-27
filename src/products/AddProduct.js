@@ -88,6 +88,8 @@ function AddProduct() {
                 <input type="checkbox" {...register('instock')} className='form-check-input border border-dark'></input>
           </div>
 
+          
+
          <button className='btn btn-success mt-3'>Submit</button>
           </form>
           </div>

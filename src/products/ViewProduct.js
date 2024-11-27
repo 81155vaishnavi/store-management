@@ -37,6 +37,7 @@ function ViewProduct() {
                     <th>quantity</th>
                     <th>instock</th>
                     <th>price</th>
+                    <th>image</th>
                     <th>Action</th>
                 </tr>
             </thead>
@@ -49,6 +50,7 @@ function ViewProduct() {
                         <td>{product.manufacture}</td>
                         <td>{product.quantity}</td>
                         <td>{product.price}</td>
+                        <td><img src={product.image} height={40}></img></td>
                          <td><input type='checkbox' checked={product.instock}></input></td>
                          <td>
                             <button className='btn btn-outline-danger me-4'onClick={()=>deleteProduct(product.id)}>

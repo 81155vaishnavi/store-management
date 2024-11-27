@@ -8,7 +8,8 @@
       "quantity": "400",
       "price": "99",
       "instock": true,
-      "productname": "cello pen"
+      "productname": "cello pen",
+      "image": "../assets/cellopen.jpg"
     },
     {
       "id": "product2",
@@ -18,7 +19,8 @@
       "quantity": "300",
       "price": "1200",
       "instock": true,
-      "productname": "cello pen"
+      "productname": "cello pen",
+      "image":"../assets/cellopen.jpg"
     },
     {
       "id": "product03",
@@ -27,7 +29,8 @@
       "specification": "Hp",
       "quantity": "2000",
       "price": "500",
-      "instock": true
+      "instock": true,
+      "image":"../assets/mouse.jpg"
     },
     {
       "id": "product04",
@@ -36,7 +39,8 @@
       "specification": "Hp",
       "quantity": "200",
       "price": "1000",
-      "instock": true
+      "instock": true,
+      "image":"../assets/keyboard.jpg"
     },
     {
       "id": "product1",
@@ -46,7 +50,8 @@
       "quantity": 300,
       "price": 10,
       "instock": true,
-      "productname": "cello pen"
+      "productname": "cello pen",
+      "image":"../assets/cellopen.jpg"
     },
     {
       "id": "product05",
@@ -56,6 +61,16 @@
       "quantity": "300",
       "price": "200000",
       "instock": true
+    },
+    {
+      "id": "",
+      "ProductName": "",
+      "manufacture": "",
+      "specification": "",
+      "quantity": "",
+      "price": "",
+      "instock": false,
+      "image": ""
     }
   ]
 }
