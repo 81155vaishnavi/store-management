@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "id": "product1",
+      "ProductName": "mouse",
+      "manufacture": "cello pvit",
+      "specification": "blue ball pen",
+      "quantity": "400",
+      "price": "99",
+      "instock": true,
+      "productname": "cello pen"
+    },
+    {
+      "id": "product2",
+      "ProductName": "pendrive",
+      "manufacture": "Dell",
+      "specification": "USB type c,128 gb",
+      "quantity": "300",
+      "price": "1200",
+      "instock": true,
+      "productname": "cello pen"
+    },
+    {
+      "id": "product03",
+      "ProductName": "mouse",
+      "manufacture": "wireless",
+      "specification": "Hp",
+      "quantity": "2000",
+      "price": "500",
+      "instock": true
+    },
+    {
+      "id": "product04",
+      "ProductName": "keyboard",
+      "manufacture": "wireless",
+      "specification": "Hp",
+      "quantity": "200",
+      "price": "1000",
+      "instock": true
+    },
+    {
+      "id": "product1",
+      "ProductName": "pen",
+      "manufacture": "cello pvit",
+      "specification": "blue ball pen",
+      "quantity": 300,
+      "price": 10,
+      "instock": true,
+      "productname": "cello pen"
+    },
+    {
+      "id": "product05",
+      "ProductName": "smartphone",
+      "manufacture": "realme",
+      "specification": "12 gb ram 256 gb internal memory",
+      "quantity": "300",
+      "price": "200000",
+      "instock": true
+    }
+  ]
+}
